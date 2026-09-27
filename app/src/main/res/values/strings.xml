@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">AppUTH</string>
+    <string name="app_name">App UTH</string>
+    <string name="welcome_title">Gestión de Personas</string>
+    <string name="welcome_subtitle">Sistema de registro y administración de contactos</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Fechanac">Fecha de nacimiento</string>
+    <string name="Direccion">Dirección de residencia</string>
+    <string name="Telefono">Número de teléfono</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="Agregar_Persona">Guardar Persona</string>
+
+    <string name="btn_registrar">Registrar Nueva Persona</string>
+    <string name="btn_ver_lista">Ver Personas Registradas</string>
+    <string name="title_registro">Registro de Persona</string>
+    <string name="title_lista">Personas Registradas</string>
+    <string name="total_registros">Total de personas: %1$d</string>
+    <string name="no_personas">No hay personas registradas aún.</string>
+    <string name="sub_no_personas">Toca el botón + para agregar un nuevo registro.</string>
+    <string name="hint_buscar">Buscar por nombre, correo o teléfono&#8230;</string>
+
+    <string name="msg_exito_guardar">Persona guardada exitosamente.</string>
+    <string name="msg_error_campos">Por favor complete todos los campos obligatorios.</string>
+    <string name="msg_confirmar_eliminar">¿Está seguro de que desea eliminar a esta persona?</string>
+    <string name="msg_exito_eliminar">Registro eliminado correctamente.</string>
+
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_clear">Limpiar</string>
 </resources>
